@@ -72,9 +72,9 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("vczone")
-                await self.one.join_chat("BRANDED_PAID_CC")
                 await self.one.join_chat("vczone")
-                await self.one.join_chat("ABOUT_BRANDEDKING")
+                await self.one.join_chat("vczone")
+                await self.one.join_chat("vczone")
 
             except:
                 pass
@@ -102,9 +102,9 @@ class Userbot(Client):
             await self.two.start()
             try:
                 await self.two.join_chat("vczone")
-                await self.two.join_chat("BRANDED_PAID_CC")
                 await self.two.join_chat("vczone")
-                await self.two.join_chat("ABOUT_BRANDEDKING")
+                await self.two.join_chat("vczone")
+                await self.two.join_chat("vczone")
             except:
                 pass
             assistants.append(2)
@@ -126,9 +126,9 @@ class Userbot(Client):
             await self.three.start()
             try:
                 await self.three.join_chat("vczone")
-                await self.three.join_chat("BRANDED_PAID_CC")
                 await self.three.join_chat("vczone")
-                await self.three.join_chat("ABOUT_BRANDEDKING")
+                await self.three.join_chat("vczone")
+                await self.three.join_chat("vczone")
             except:
                 pass
             assistants.append(3)
@@ -149,9 +149,9 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.four.join_chat("vczone")
-                await self.four.join_chat("BRANDED_PAID_CC")
                 await self.four.join_chat("vczone")
-                await self.four.join_chat("ABOUT_BRANDEDKING")
+                await self.four.join_chat("vczone")
+                await self.four.join_chat("vczone")
             except:
                 pass
             assistants.append(4)
@@ -172,9 +172,9 @@ class Userbot(Client):
             await self.five.start()
             try:
                 await self.five.join_chat("vczone")
-                await self.five.join_chat("BRANDED_PAID_CC")
                 await self.five.join_chat("vczone")
-                await self.five.join_chat("ABOUT_BRANDEDKING")
+                await self.five.join_chat("vczone")
+                await self.five.join_chat("vczone")
             except:
                 pass
             assistants.append(5)
