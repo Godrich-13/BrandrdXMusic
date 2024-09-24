@@ -73,7 +73,7 @@ class Userbot(Client):
             try:
                 await self.one.join_chat("BRANDED_WORLD")
                 await self.one.join_chat("BRANDED_PAID_CC")
-                await self.one.join_chat("BRANDRD_BOT")
+                await self.one.join_chat("vczone")
                 await self.one.join_chat("ABOUT_BRANDEDKING")
 
             except:
@@ -103,7 +103,7 @@ class Userbot(Client):
             try:
                 await self.two.join_chat("BRANDED_WORLD")
                 await self.two.join_chat("BRANDED_PAID_CC")
-                await self.two.join_chat("BRANDRD_BOT")
+                await self.two.join_chat("vczone")
                 await self.two.join_chat("ABOUT_BRANDEDKING")
             except:
                 pass
@@ -127,7 +127,7 @@ class Userbot(Client):
             try:
                 await self.three.join_chat("BRANDED_WORLD")
                 await self.three.join_chat("BRANDED_PAID_CC")
-                await self.three.join_chat("BRANDRD_BOT")
+                await self.three.join_chat("vczone")
                 await self.three.join_chat("ABOUT_BRANDEDKING")
             except:
                 pass
@@ -150,7 +150,7 @@ class Userbot(Client):
             try:
                 await self.four.join_chat("BRANDED_WORLD")
                 await self.four.join_chat("BRANDED_PAID_CC")
-                await self.four.join_chat("BRANDRD_BOT")
+                await self.four.join_chat("vczone")
                 await self.four.join_chat("ABOUT_BRANDEDKING")
             except:
                 pass
@@ -173,7 +173,7 @@ class Userbot(Client):
             try:
                 await self.five.join_chat("BRANDED_WORLD")
                 await self.five.join_chat("BRANDED_PAID_CC")
-                await self.five.join_chat("BRANDRD_BOT")
+                await self.five.join_chat("vczone")
                 await self.five.join_chat("ABOUT_BRANDEDKING")
             except:
                 pass
